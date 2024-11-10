@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Abby 👋
+I'm a first-year Master of Environmental Studies student at UPenn and a recent BSc. graduate in Economics from LSE. Growing up in both China and the UK, I bring an international perspective to my work. Currently, I’m the Environmental Economics Graduate Research Fellow at the Water Center at UPenn, where I combine my passion for data analysis with a focus on ESG metrics and ROI analysis in infrastructure projects. You can learn more about me on my [website](https://abbysheng.netlify.app/).
 
 <!--
 **shengabb/shengabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
